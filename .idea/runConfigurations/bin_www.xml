@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="bin\www" type="NodeJSConfigurationType" factoryName="Node.js" singleton="false" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="bin/startup" application-parameters="node.server.1 &quot;Public Room&quot; 4040 localhost 5050" working-dir="$PROJECT_DIR$">
+    <envs>
+      <env name="DEBUG" value="chatsock:*" />
+    </envs>
+    <browser url="http://localhost:3000/" />
+    <method />
+  </configuration>
+</component>
